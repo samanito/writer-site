@@ -7,7 +7,6 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'TitleFont': ['"Montserrat"', 'sans-serif'],
         'BodyFont': ['"Merriweather"', 'serif'],
       },
       fontSize: {
