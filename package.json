@@ -10,9 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "autoprefixer": "^9.8.6",
     "http-server": "^13.0.2",
-    "postcss-cli": "^7.1.2",
-    "tailwindcss": "^2.2.15"
+    "postcss-cli": "^7.1.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.36",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.14"
   }
 }
