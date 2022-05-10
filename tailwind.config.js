@@ -18,11 +18,8 @@ module.exports = {
         '10xl': '8rem',
       },
       colors: {
-        orxe: colors.orange,
+        rose: colors.rose,
       },
-      backgroundImage: theme => ({
-        'monster': "url('img/monster.jpg')",
-        })
     },
   },
   variants: {},
