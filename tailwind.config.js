@@ -1,15 +1,10 @@
-const colors = require('tailwindcss/colors')
-
 module.exports = {
-  future: {
-    removeDeprecatedGapUtilities: true,
-    purgeLayersByDefault: true,
-  },
-  purge: [],
+  content: [],
   theme: {
     extend: {
       fontFamily: {
-        'BodyFont': ['"Merriweather"', 'serif'],
+        'PressStart': ['"Press Start 2P"', 'cursive'],
+        'Koulen': ['"Koulen"', 'cursive'],
       },
       fontSize: {
         '7xl': '5rem',
@@ -18,10 +13,12 @@ module.exports = {
         '10xl': '8rem',
       },
       colors: {
-        rose: colors.rose,
+        'teal' : '#14b8a6',
+        'lime' : '#84cc16',
+        'cyan' : '#06b6d4',
+        'bright-yellow' : '#ffff00',
       },
     },
   },
-  variants: {},
   plugins: [],
 }
