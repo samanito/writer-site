@@ -22734,11 +22734,11 @@ video {
 }
 
 .font-PressStart {
-  font-family: "Press Start 2P", cursive;
+  font-family: "Press Start 2P", sans-serif;
 }
 
 .font-Koulen {
-  font-family: "Koulen", cursive;
+  font-family: "Koulen", serif;
 }
 
 .text-xs {
@@ -55044,11 +55044,11 @@ video {
   }
 
   .sm\:font-PressStart {
-    font-family: "Press Start 2P", cursive;
+    font-family: "Press Start 2P", sans-serif;
   }
 
   .sm\:font-Koulen {
-    font-family: "Koulen", cursive;
+    font-family: "Koulen", serif;
   }
 
   .sm\:text-xs {
@@ -86986,11 +86986,11 @@ video {
   }
 
   .md\:font-PressStart {
-    font-family: "Press Start 2P", cursive;
+    font-family: "Press Start 2P", sans-serif;
   }
 
   .md\:font-Koulen {
-    font-family: "Koulen", cursive;
+    font-family: "Koulen", serif;
   }
 
   .md\:text-xs {
@@ -118928,11 +118928,11 @@ video {
   }
 
   .lg\:font-PressStart {
-    font-family: "Press Start 2P", cursive;
+    font-family: "Press Start 2P", sans-serif;
   }
 
   .lg\:font-Koulen {
-    font-family: "Koulen", cursive;
+    font-family: "Koulen", serif;
   }
 
   .lg\:text-xs {
@@ -150870,11 +150870,11 @@ video {
   }
 
   .xl\:font-PressStart {
-    font-family: "Press Start 2P", cursive;
+    font-family: "Press Start 2P", sans-serif;
   }
 
   .xl\:font-Koulen {
-    font-family: "Koulen", cursive;
+    font-family: "Koulen", serif;
   }
 
   .xl\:text-xs {
@@ -182812,11 +182812,11 @@ video {
   }
 
   .\32xl\:font-PressStart {
-    font-family: "Press Start 2P", cursive;
+    font-family: "Press Start 2P", sans-serif;
   }
 
   .\32xl\:font-Koulen {
-    font-family: "Koulen", cursive;
+    font-family: "Koulen", serif;
   }
 
   .\32xl\:text-xs {

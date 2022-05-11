@@ -3,8 +3,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'PressStart': ['"Press Start 2P"', 'cursive'],
-        'Koulen': ['"Koulen"', 'cursive'],
+        'PressStart': ['"Press Start 2P"', 'sans-serif'],
+        'Koulen': ['"Koulen"', 'serif'],
       },
       fontSize: {
         '7xl': '5rem',
