@@ -5,6 +5,7 @@ module.exports = {
       fontFamily: {
         'PressStart': ['"Press Start 2P"', 'sans-serif'],
         'Koulen': ['"Koulen"', 'serif'],
+        'Merriweather': ['"Merriweather"', 'sans-serif'],
       },
       fontSize: {
         '7xl': '5rem',
@@ -19,6 +20,11 @@ module.exports = {
         'bright-yellow' : '#ffff00',
       },
     },
+    borderWidth: {
+      '10': '10px',
+      '12': '12px',
+      '14': '14px',
+    }
   },
   plugins: [],
 }
